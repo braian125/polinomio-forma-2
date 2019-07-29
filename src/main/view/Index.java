@@ -67,6 +67,7 @@ public class Index {
     /**
      * Opciones disponibles para la 
      * elección del usuario.
+     * @param select opcion a ejecutar
      */
     public static void options(char select) {
         switch (select) {

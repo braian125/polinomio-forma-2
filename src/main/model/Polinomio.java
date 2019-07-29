@@ -174,7 +174,7 @@ public class Polinomio {
 
     /**
      * Suma dos polinomio.
-     * @param b primer polinomio 
+     * @param a primer polinomio 
      * @param b segundo polinomio 
      * @return polinomio resultado
      */

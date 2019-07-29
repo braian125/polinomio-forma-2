@@ -47,6 +47,7 @@ public class Show {
      * Opciones disponibles para que 
      * el usuario eliga el 
      * polinomio deseado.
+     * @param select opcion a ejecutar
      */
     public static void options(char select) {
         switch (select) {

@@ -26,7 +26,8 @@ public class ControllerPolinomio {
     /**
      * Retorna un polinomio en especifico 
      * desde memoria por su id.
-     * @param indentifier identificación del polinomio
+     * @param identifier identificación del polinomio
+     * @return polinomio por identificación
      */
     public static Polinomio show(int identifier) {
         return Polinomio.byID(identifier);

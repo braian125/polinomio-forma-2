@@ -73,7 +73,7 @@ public class Termino {
     
     /**
      * Deriva un termino.
-     * @param termino a derivar  
+     * @param a termion a derivar  
      * @return termino resultado
      */
     public static Termino derivar(Termino a) {
